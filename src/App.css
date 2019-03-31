@@ -1,0 +1,23 @@
+.heading {
+  margin-top: 100px;
+  font-weight: 700;
+  font-size: 60px;
+  letter-spacing: 3px;
+}
+
+.icon {
+  font-size: 80px;
+}
+
+a {
+  color: #79d6cf;
+  font-weight: 500;
+}
+
+.copy {
+  color: #8e8b8b;
+  position: fixed;
+  bottom: 0;
+  left: 50%;
+  margin-left: -26px;
+}
